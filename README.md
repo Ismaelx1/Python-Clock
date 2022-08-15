@@ -1,0 +1,2 @@
+# Python-Clock
+Learning Python!
